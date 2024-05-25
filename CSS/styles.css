@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/dienteswallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div.container2 {
+    box-shadow: 10px 10px 20px black;
+}

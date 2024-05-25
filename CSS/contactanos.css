@@ -1,0 +1,16 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+  
+  background: url(../Imagenes/stethoscope.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+.contenedor{
+    background-color: aliceblue;
+    
+}
+.p{
+    color: aliceblue;
+}
